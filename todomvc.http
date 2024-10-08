@@ -1,0 +1,6 @@
+@todomvc_HostAddress = http://localhost:5029
+
+GET {{todomvc_HostAddress}}/api/todos
+Accept: application/json
+
+###
